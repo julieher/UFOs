@@ -31,4 +31,4 @@ Example 2: Filter by shape: triangle
 **Recommendations**
 - Customizing the search bar by including a drop-down list, and autofill could make it easier for the user and make the page more interactive.
 
-- The data could be pulled from live source in order to show updated results.
+- The data could be pulled from a live source in order to show updated results..
